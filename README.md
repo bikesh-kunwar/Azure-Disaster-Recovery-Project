@@ -30,11 +30,11 @@ Explain the purpose of each folder/file.
 - Validated VM functionality post-recovery.
 
 ## 📸 Screenshots
-![Backup Configuration](screenshots)
-![ASR Replication](screenshots)
+![screenshots]
+
 
 ## 📊 Architecture Diagram
-![Azure DR Architecture](architecture-diagram/azure-dr-architecture.png)
+![architecture-diagram]
 
 ## 📝 Lessons Learned
 - Importance of RPO/RTO alignment with business needs.
