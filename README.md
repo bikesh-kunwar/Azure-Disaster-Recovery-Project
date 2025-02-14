@@ -30,11 +30,11 @@ Explain the purpose of each folder/file.
 - Validated VM functionality post-recovery.
 
 ## 📸 Screenshots
-![screenshots]
+![screenshots](screenshots)
 
 
 ## 📊 Architecture Diagram
-![architecture-diagram]
+![architecture-diagram](architecture-diagram)
 
 ## 📝 Lessons Learned
 - Importance of RPO/RTO alignment with business needs.
